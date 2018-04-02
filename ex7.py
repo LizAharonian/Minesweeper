@@ -1,11 +1,10 @@
 '''
 * Student name: Liz Aharonian
-* Student ID: 316584960
 * Course Exercise Group: 01
 * Exercise name: ex7.py
 '''
 import random
-import turtle 
+import turtle
 import argparse  # mandatory
 
 
